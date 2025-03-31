@@ -32,17 +32,14 @@ Antes de começar, tu precisas de ter as seguintes ferramentas instaladas:
 O projeto deve seguir uma estrutura para poder funcionar, essa sendo:
 
 ```bash
-/projeto-crud
 │
-├── /assets/                  # Arquivos CSS, JS e imagens
-├── /includes/                # Arquivos de inclusão, como cabeçalhos e rodapés
-├── /config/                  # Arquivo de configuração do banco de dados
-├── /functions/               # Funções de manipulação dos dados
-├── index.php                 # Página principal do sistema
-├── add.php                   # Página para adicionar registros
-├── edit.php                  # Página para editar registros
-├── delete.php                # Página para excluir registros
-├── database.sql              # Script SQL para criar as tabelas do banco de dados
+├── /css/                     # Pasta que guarda o css
+├── /db/                      # Pasta que guarda a base de dados
+├── /images/                  # Pasta que guarda as imagens que podem ser usadas(opcional)
+├── /uploaded_img/            # Pasta que guarda imagens que foram enviadas para a base de dados
+├── admin_page.php            # Página principal do site
+├── admin_update.php          # Página para adicionar produto
+├── config.php                # Página para conectar a base de dados
 └── README.md                 # Este arquivo
 ```
 
