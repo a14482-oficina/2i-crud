@@ -16,7 +16,7 @@ Este projeto é uma aplicação CRUD (Criar, Ler, Atualizar, Excluir) utilizando
 - **PHP**: Linguagem de programação usada para desenvolver o back-end da aplicação.
 - **MySQL**: Sistema de gerenciamento de banco de dados relacional.
 - **PHPMyAdmin**: Ferramenta de administração de banco de dados MySQL.
-- **Alojamento-Gratis**: Plataforma de hospedagem utilizada para disponibilizar o projeto online.
+- **Alojamento-Gratis**: Plataforma de alojamento utilizada para disponibilizar o projeto online.
 
 ## Pré-Requisitos
 
@@ -25,11 +25,12 @@ Antes de começar, tu precisas de ter as seguintes ferramentas instaladas:
 - [PHP](https://www.php.net/) (versão 4.4 ou superior)
 - [MySQL](https://www.mysql.com/)
 - [PHPMyAdmin](https://www.phpmyadmin.net/)
-- Acesso a um servidor de hospedagem (como o **Alojamento-Ratis**) com suporte a PHP e MySQL.
+- Acesso a um servidor de alojamento (como o **Alojamento-Ratis**) com suporte a PHP e MySQL.
 
 ## Estrutura do Projeto
 
 O projeto deve seguir uma estrutura para poder funcionar, essa sendo:
+'''bash
 /projeto-crud
 │
 ├── /assets/                  # Arquivos CSS, JS e imagens
