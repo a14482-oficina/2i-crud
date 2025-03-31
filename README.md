@@ -20,10 +20,10 @@ Este projeto é uma aplicação CRUD (Criar, Ler, Atualizar, Excluir) utilizando
 
 ## Pré-Requisitos
 
-Antes de começar, você precisa ter as seguintes ferramentas instaladas:
+Antes de começar, tu precisas de ter as seguintes ferramentas instaladas:
 
-- [PHP](https://www.php.net/) (versão 7.4 ou superior)
-- [MySQL](https://www.mysql.com/) (ou MariaDB)
+- [PHP](https://www.php.net/) (versão 4.4 ou superior)
+- [MySQL](https://www.mysql.com/)
 - [PHPMyAdmin](https://www.phpmyadmin.net/)
 - Acesso a um servidor de hospedagem (como o **Alojamento-Ratis**) com suporte a PHP e MySQL.
 
@@ -33,3 +33,7 @@ Antes de começar, você precisa ter as seguintes ferramentas instaladas:
 
    ```bash
    git clone https://github.com/a14482/2i-crud.git
+   '''
+   
+2. **
+
