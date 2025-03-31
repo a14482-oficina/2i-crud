@@ -2,7 +2,7 @@
 
 # Projeto CRUD com MySQL e PHPMyAdmin
 
-Este projeto é uma aplicação CRUD (Criar, Ler, Atualizar, Excluir) utilizando uma base de dados MySQL gerenciada pelo PHPMyAdmin. O sistema foi hospedado na plataforma **Alojamento-Ratis**.
+Este projeto é uma aplicação CRUD (Criar, Ler, Atualizar, Excluir) utilizando uma base de dados MySQL gerenciada pelo PHPMyAdmin. O sistema foi hospedado na plataforma **Alojamento-Gratis**.
 
 ## Funcionalidades
 
@@ -16,7 +16,7 @@ Este projeto é uma aplicação CRUD (Criar, Ler, Atualizar, Excluir) utilizando
 - **PHP**: Linguagem de programação usada para desenvolver o back-end da aplicação.
 - **MySQL**: Sistema de gerenciamento de banco de dados relacional.
 - **PHPMyAdmin**: Ferramenta de administração de banco de dados MySQL.
-- **Alojamento-Ratis**: Plataforma de hospedagem utilizada para disponibilizar o projeto online.
+- **Alojamento-Gratis**: Plataforma de hospedagem utilizada para disponibilizar o projeto online.
 
 ## Pré-Requisitos
 
@@ -32,4 +32,4 @@ Antes de começar, você precisa ter as seguintes ferramentas instaladas:
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/a14482/2i-crud.git
