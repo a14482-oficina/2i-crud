@@ -33,7 +33,6 @@ Antes de começar, tu precisas de ter as seguintes ferramentas instaladas:
 
    ```bash
    git clone https://github.com/a14482/2i-crud.git
-   '''
    
 2. **
 
