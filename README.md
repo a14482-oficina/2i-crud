@@ -27,6 +27,23 @@ Antes de começar, tu precisas de ter as seguintes ferramentas instaladas:
 - [PHPMyAdmin](https://www.phpmyadmin.net/)
 - Acesso a um servidor de hospedagem (como o **Alojamento-Ratis**) com suporte a PHP e MySQL.
 
+## Estrutura do Projeto
+
+O projeto deve seguir uma estrutura para poder funcionar, essa sendo:
+/projeto-crud
+│
+├── /assets/                  # Arquivos CSS, JS e imagens
+├── /includes/                # Arquivos de inclusão, como cabeçalhos e rodapés
+├── /config/                  # Arquivo de configuração do banco de dados
+├── /functions/               # Funções de manipulação dos dados
+├── index.php                 # Página principal do sistema
+├── add.php                   # Página para adicionar registros
+├── edit.php                  # Página para editar registros
+├── delete.php                # Página para excluir registros
+├── database.sql              # Script SQL para criar as tabelas do banco de dados
+└── README.md                 # Este arquivo
+
+
 ## Instalação
 
 1. **Clone o repositório:**
