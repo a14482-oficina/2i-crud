@@ -44,7 +44,7 @@ O projeto deve seguir uma estrutura para poder funcionar, essa sendo:
 ├── delete.php                # Página para excluir registros
 ├── database.sql              # Script SQL para criar as tabelas do banco de dados
 └── README.md                 # Este arquivo
-
+```
 
 ## Instalação
 
