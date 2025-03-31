@@ -30,7 +30,8 @@ Antes de começar, tu precisas de ter as seguintes ferramentas instaladas:
 ## Estrutura do Projeto
 
 O projeto deve seguir uma estrutura para poder funcionar, essa sendo:
-'''bash
+
+```bash
 /projeto-crud
 │
 ├── /assets/                  # Arquivos CSS, JS e imagens
