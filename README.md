@@ -57,5 +57,6 @@ O projeto deve seguir uma estrutura para poder funcionar, essa sendo:
    git clone https://github.com/a14482/2i-crud.git
    ```
    
-2. **Usar um local de base de dados(xamp ou alojamento-grátis):##
+2. **Usar um local de base de dados(xamp ou alojamento-grátis):**
+   
    
