@@ -25,7 +25,7 @@ Antes de começar, tu precisas de ter as seguintes ferramentas instaladas:
 - [PHP](https://www.php.net/) (versão 4.4 ou superior)
 - [MySQL](https://www.mysql.com/)
 - [PHPMyAdmin](https://www.phpmyadmin.net/)
-- Acesso a um servidor de alojamento (como o **Alojamento-Ratis**) com suporte a PHP e MySQL.
+- Acesso a um servidor de alojamento (como o **Alojamento-Grátis**) com suporte a PHP e MySQL.
 
 ## Estrutura do Projeto
 
