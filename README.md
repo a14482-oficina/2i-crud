@@ -33,9 +33,9 @@ O projeto deve seguir uma estrutura para poder funcionar, essa sendo:
 
 ```bash
 ├── /css/                     # Pasta que guarda o css
-│     ├── style.css           # Arquivo de css
+      ├── style.css           # Arquivo de css
 ├── /db/                      # Pasta que guarda a base de dados
-│     ├── cart_db.sql         # Arquivo de base de dados
+      ├── cart_db.sql         # Arquivo de base de dados
 ├── /images/                  # Pasta que guarda as imagens que podem ser usadas(opcional)
 │     ├── food-1.png          # Arquivo de foto
 │     ├── food-2.png          # Arquivo de foto
