@@ -57,7 +57,7 @@ O projeto deve seguir uma estrutura para poder funcionar, essa sendo:
    git clone https://github.com/a14482/2i-crud.git
    ```
    
-2. **Usar um local de base de dados(xamp ou alojamento-grátis):** 
-   Para o uso do alojamento-grátis, deve ser usado
-   -[Alojamento-grátis](http://www.alojamento-gratis.com/)
+2. **Usar um local de base de dados(xamp ou alojamento-grátis):**<br/> 
+   Para o uso do alojamento-grátis, deve ser usado<br/> 
+   - [Alojamento-grátis](http://www.alojamento-gratis.com/)
    
