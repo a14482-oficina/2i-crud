@@ -62,8 +62,8 @@ O projeto deve seguir uma estrutura para poder funcionar, essa sendo:
    - [Alojamento-grátis](http://www.alojamento-gratis.com/)<br/>
    
 3. **Colocar a base de dados dentro do alojamento-grátis:**<br/>
+
    Agora que chegamos ao cpanel:
-   
    ![image](https://github.com/user-attachments/assets/b503ead0-3005-4fa5-beef-28b5a6770e3b)
    
    Devemos clicar em MYSQL Databases:<br/>
@@ -87,7 +87,20 @@ O projeto deve seguir uma estrutura para poder funcionar, essa sendo:
    Quando tudo estiver correto, podemos clicar em executar e passar ao próximo passo:<br/>
    ![image](https://github.com/user-attachments/assets/e11328d7-e345-4777-b2c8-9ad0e9640a1a)
 
-4. **
+4. **Colocar os ficheiros dentro do alojamento-grátis:**
+
+   Outra vez no cpanel, cliquemos em Online file manager:
+   ![image](https://github.com/user-attachments/assets/228475ec-66d3-4b84-bdda-c9cf59d76d88)
+
+   Entremos em htdocs, e dentro iremos criar uma pasta para colocar todos os ficheiros:
+   ![image](https://github.com/user-attachments/assets/67a66f3b-ffaf-40fe-9092-f59fa1eac33a)
+
+   ![image](https://github.com/user-attachments/assets/e4eff511-7fb3-4b09-8f23-274d162b4fb8)
+
+   Agora que estamos dentro da pasta, colocaremos todos os ficheiros e pastas disponiveis:
+
+   ![image](https://github.com/user-attachments/assets/ed8b2220-a7b2-4a13-bbe0-f0c63dc66e68)
+
 
 
 
