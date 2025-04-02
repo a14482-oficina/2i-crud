@@ -75,6 +75,12 @@ O projeto deve seguir uma estrutura para poder funcionar, essa sendo:
    Agora que temos criada devemos ter isto na mesma pagina
    ![image](https://github.com/user-attachments/assets/3e56178f-3f40-4479-8a81-8845422f8312)
 
+   Clicamos em admin e importar
+   ![image](https://github.com/user-attachments/assets/ebaf5bea-7a5a-4fcc-97ed-250a8534d0b4)
+
+   Aqui clicamos em escolher ficheiro e escolhemos o ficheiro products.sql
+
+
 
 
 
