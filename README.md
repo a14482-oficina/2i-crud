@@ -101,6 +101,18 @@ O projeto deve seguir uma estrutura para poder funcionar, essa sendo:
 
    ![image](https://github.com/user-attachments/assets/ed8b2220-a7b2-4a13-bbe0-f0c63dc66e68)
 
+5. **Mudar o ficheiro config.php:**
+
+   Agora que temos tudo colocado no sitio que deve estar, precisamos de mudar o ficheiro config.php, o mesmo foi organizado por mim para ser mais facil de compreender a modificação necessária
+   ![image](https://github.com/user-attachments/assets/7585ae4c-413a-4f76-8a7e-49197aadce76)
+
+   Aqui estão as informações que devem ser colocadas no ficheiro, no config.php, temos os nomes de cada coluna, apenas é necessário mudar para o valor da base de dados que condiz com a coluna, ou seja, no meu caso:
+   ![image](https://github.com/user-attachments/assets/7962c226-c180-4110-baa3-782a9cd65939)
+   
+   ![image](https://github.com/user-attachments/assets/e2d42b45-9cab-4a38-8016-8f103ffd96a7)
+
+
+
    
 
 
