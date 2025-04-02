@@ -89,7 +89,7 @@ O projeto deve seguir uma estrutura para poder funcionar, essa sendo:
 
 4. **Colocar os ficheiros dentro do alojamento-grátis:**
 
-   Outra vez no cpanel, cliquemos em Online file manager:
+   Outra vez no cpanel, cliquemos em Online file manager:<br/>
    ![image](https://github.com/user-attachments/assets/228475ec-66d3-4b84-bdda-c9cf59d76d88)
 
    Entremos em htdocs, e dentro iremos criar uma pasta para colocar todos os ficheiros:
@@ -100,6 +100,8 @@ O projeto deve seguir uma estrutura para poder funcionar, essa sendo:
    Agora que estamos dentro da pasta, colocaremos todos os ficheiros e pastas disponiveis:
 
    ![image](https://github.com/user-attachments/assets/ed8b2220-a7b2-4a13-bbe0-f0c63dc66e68)
+
+   
 
 
 
