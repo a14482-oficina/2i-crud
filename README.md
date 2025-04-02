@@ -108,6 +108,8 @@ O projeto deve seguir uma estrutura para poder funcionar, essa sendo:
 
    Aqui estão as informações que devem ser colocadas no ficheiro, no config.php, temos os nomes de cada coluna, apenas é necessário mudar para o valor da base de dados que condiz com a coluna, ou seja, no meu caso:
    ![image](https://github.com/user-attachments/assets/7962c226-c180-4110-baa3-782a9cd65939)
+
+   ![image](https://github.com/user-attachments/assets/da90a921-3b32-48b9-9702-e8f957136000)
    
    ![image](https://github.com/user-attachments/assets/e2d42b45-9cab-4a38-8016-8f103ffd96a7)
 
