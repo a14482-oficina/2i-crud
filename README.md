@@ -57,7 +57,25 @@ O projeto deve seguir uma estrutura para poder funcionar, essa sendo:
    git clone https://github.com/a14482/2i-crud.git
    ```
    
-2. **Usar um local de base de dados(xamp ou alojamento-grátis):**<br/> 
-   Para o uso do alojamento-grátis, deve ser usado<br/> 
-   - [Alojamento-grátis](http://www.alojamento-gratis.com/)
+2. **Usar um local de base de dados(alojamento-grátis):**<br/> 
+   Para o uso do alojamento-grátis, devemos ir ao site e criar conta<br/> 
+   - [Alojamento-grátis](http://www.alojamento-gratis.com/)<br/>
+   
+3. **Colocar a base de dados dentro do alojamento-grátis:**<br/>
+   Agora que chegamos ao cpanel:
+   
+   ![image](https://github.com/user-attachments/assets/b503ead0-3005-4fa5-beef-28b5a6770e3b)
+   
+   Devemos clicar em MYSQL Databases:<br/>
+   ![image](https://github.com/user-attachments/assets/6088e57d-e2d1-4ad9-81ca-bae785304da7)
+
+   Já dentro, colocamos o nome da nossa base de dados, este sendo cart_db:
+   ![image](https://github.com/user-attachments/assets/ade97291-9eb3-45c3-8970-55efcb01d59f)
+
+   Agora que temos criada devemos ter isto na mesma pagina
+   ![image](https://github.com/user-attachments/assets/3e56178f-3f40-4479-8a81-8845422f8312)
+
+
+
+
    
