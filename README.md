@@ -69,19 +69,26 @@ O projeto deve seguir uma estrutura para poder funcionar, essa sendo:
    Devemos clicar em MYSQL Databases:<br/>
    ![image](https://github.com/user-attachments/assets/6088e57d-e2d1-4ad9-81ca-bae785304da7)
 
-   Já dentro, colocamos o nome da nossa base de dados, este sendo cart_db:
+   Já dentro, colocamos o nome da nossa base de dados, este sendo cart_db:<br/>
    ![image](https://github.com/user-attachments/assets/ade97291-9eb3-45c3-8970-55efcb01d59f)
 
-   Agora que temos criada devemos ter isto na mesma pagina
+   Agora que temos criada devemos ter isto na mesma pagina:<br/>
    ![image](https://github.com/user-attachments/assets/3e56178f-3f40-4479-8a81-8845422f8312)
 
-   Clicamos em admin e importar
+   Clicamos em admin e importar:<br/>
    ![image](https://github.com/user-attachments/assets/ebaf5bea-7a5a-4fcc-97ed-250a8534d0b4)
 
-   Aqui clicamos em escolher ficheiro
+   Aqui clicamos em escolher ficheiro:<br/>
    ![image](https://github.com/user-attachments/assets/af7d0e20-6dfc-4cce-b80d-0707aff7cbe6)
 
-   E agora escolhemos o ficheiro cart_db.sql
+   E agora escolhemos o ficheiro cart_db.sql e certificamo-nos de que temos escolhido utf-8:<br/>
+   ![image](https://github.com/user-attachments/assets/69c2cb7d-9ffc-4ef0-a1af-bcff3d9a42cb)
+
+   Quando tudo estiver correto, podemos clicar em executar e passar ao próximo passo:<br/>
+   ![image](https://github.com/user-attachments/assets/e11328d7-e345-4777-b2c8-9ad0e9640a1a)
+
+4. **
+
 
 
 
