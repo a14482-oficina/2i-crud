@@ -78,7 +78,11 @@ O projeto deve seguir uma estrutura para poder funcionar, essa sendo:
    Clicamos em admin e importar
    ![image](https://github.com/user-attachments/assets/ebaf5bea-7a5a-4fcc-97ed-250a8534d0b4)
 
-   Aqui clicamos em escolher ficheiro e escolhemos o ficheiro products.sql
+   Aqui clicamos em escolher ficheiro
+   ![image](https://github.com/user-attachments/assets/af7d0e20-6dfc-4cce-b80d-0707aff7cbe6)
+
+   E agora escolhemos o ficheiro cart_db.sql
+
 
 
 
